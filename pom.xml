@@ -79,7 +79,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>com/everis/javaCamp/JavaCampApplication</mainClass>
+							<mainClass>javaCamp/JavaCampApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
@@ -88,7 +88,6 @@
 			<plugin>
 				<groupId>com.heroku.sdk</groupId>
 				<artifactId>heroku-maven-plugin</artifactId>
-				<version>3.0.4</version>
 				<configuration>
 					<jdkVersion>11</jdkVersion>
 					<!-- Use your own application name -->
