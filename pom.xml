@@ -79,7 +79,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>javaCamp/JavaCampApplication</mainClass>
+							<mainClass>javaCamp.JavaCampApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
