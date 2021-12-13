@@ -55,6 +55,12 @@
 			<version>1.5.13</version>
 		</dependency>
 
+		<!-- HEALTH DEPENDENCIES -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+
 	</dependencies>
 
 	<build>
